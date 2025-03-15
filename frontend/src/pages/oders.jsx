@@ -1,6 +1,6 @@
 import React from 'react'
 
-const oders = () => {
+const Oders = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const oders = () => {
   )
 }
 
-export default oders
+export default Oders
